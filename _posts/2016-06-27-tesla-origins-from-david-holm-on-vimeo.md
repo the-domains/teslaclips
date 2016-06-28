@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'https://vimeo.com/97904493 '
-datePublished: '2016-06-27T15:58:34.756Z'
-dateModified: '2016-06-27T15:50:09.409Z'
+datePublished: '2016-06-28T08:46:55.461Z'
+dateModified: '2016-06-27T15:58:41.049Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-27-tesla-origins-from-david-holm-on-vimeo.md
