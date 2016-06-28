@@ -4,8 +4,15 @@
         <description><![CDATA[Tesla Art en Movies]]></description>
         <link>https://thegrid.ai/teslaclips/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 08:46:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 08:47:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/teslaclips/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://vimeo.com/97904493 </p>]]></description>
+            <link>https://thegrid.ai/teslaclips/tesla-origins-from-david-holm-on-vimeo/index.html</link>
+            <guid isPermaLink="false">4e1848fb-5f52-4369-85f5-14e3f7976c6a</guid>
+            <pubDate>Tue, 28 Jun 2016 08:46:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0de4231d-b159-4462-8e63-f7f769b288b5.jpg">]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/teslaclips/httpsyoutubeicuehyqjvyelistpltkns7spcwia71rxhjc39cbho/index.html</link>
             <guid isPermaLink="false">8cf75363-e048-449d-a744-0a77dc4a3253</guid>
             <pubDate>Mon, 27 Jun 2016 16:02:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://vimeo.com/97904493 </p>]]></description>
-            <link>https://thegrid.ai/teslaclips/tesla-origins-from-david-holm-on-vimeo/index.html</link>
-            <guid isPermaLink="false">4e1848fb-5f52-4369-85f5-14e3f7976c6a</guid>
-            <pubDate>Mon, 27 Jun 2016 15:58:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
