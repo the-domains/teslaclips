@@ -1,20 +1,4 @@
-name: TeslaClips
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.6300885311793536
-title: Tesla Art en Movies
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#b59d86'
@@ -26,4 +10,24 @@ color:
   lightness: 0.9013178679160774
   saturation: 0.6866892264224589
   rhythmicContrast: 0.01670681918039918
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Pascal Hiel
+  email: Pascal@balefirehq.com
+  url: www.balefirehq.com
+name: TeslaClips
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Tesla Art en Movies
 purpose: []
