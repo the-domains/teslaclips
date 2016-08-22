@@ -32,6 +32,9 @@ navigation:
   - name: Tesla Powerwall
     id: 342060c7-1ede-428f-baae-02f29423a298
     type: content
+  - name: Tesla S III X
+    id: c6056a05-36f1-4753-99d3-4663747c5452
+    type: content
 favicon: null
 title: Tesla Art en Movies
 purpose: []
