@@ -1,6 +1,5 @@
 ---
-datePublished: '2016-08-20T07:38:55.874Z'
-isBasedOnUrl: 'https://vimeo.com/140983024'
+datePublished: '2016-08-22T17:50:57.545Z'
 keywords: []
 related: []
 author:
@@ -8,7 +7,7 @@ author:
     url: 'https://vimeo.com/samohare'
     avatar: {}
 via: {}
-dateModified: '2016-08-20T07:38:34.155Z'
+dateModified: '2016-08-22T17:50:56.968Z'
 title: Tesla - Fireflies
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/140983024'
@@ -45,11 +44,10 @@ publisher:
 description: >-
   A fully CG film created as an homage to a brand we admire. Please watch
   fullscreen for best effect.
-starred: false
 sourcePath: _posts/2016-08-20-tesla-fireflies.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: tesla-fireflies/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
