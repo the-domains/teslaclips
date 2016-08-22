@@ -1,4 +1,3 @@
-layout_spectrum: 0.11236664652824402
 typography_spectrum: 0.9822154145222157
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.11236664652824402
 analytics:
   google: null
   facebook: null
@@ -28,6 +28,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Tesla Powerwall
+    id: 342060c7-1ede-428f-baae-02f29423a298
+    type: content
 favicon: null
 title: Tesla Art en Movies
 purpose: []
