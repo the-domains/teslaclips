@@ -1,6 +1,5 @@
 ---
-datePublished: '2016-08-22T11:33:02.259Z'
-isBasedOnUrl: 'https://vimeo.com/170939784'
+datePublished: '2016-08-22T15:24:20.241Z'
 keywords: []
 related: []
 author:
@@ -8,7 +7,7 @@ author:
     url: 'https://vimeo.com/johannesm'
     avatar: {}
 via: {}
-dateModified: '2016-08-22T11:32:53.767Z'
+dateModified: '2016-08-22T15:24:19.758Z'
 title: Eneco Tesla Powerwall
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/170939784'
@@ -43,11 +42,10 @@ publisher:
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 description: 'Promotional animation for the Tesla Powerwall and Eneco. '
-starred: false
 sourcePath: _posts/2016-08-22-eneco-tesla-powerwall.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: eneco-tesla-powerwall/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
