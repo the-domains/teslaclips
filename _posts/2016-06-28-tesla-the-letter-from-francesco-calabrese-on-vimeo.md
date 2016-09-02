@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T06:50:30.614Z'
+datePublished: '2016-08-31T09:38:25.330Z'
 sourcePath: _posts/2016-06-28-tesla-the-letter-from-francesco-calabrese-on-vimeo.md
 inFeed: true
 authors: []
@@ -10,7 +10,7 @@ author:
     url: 'https://vimeo.com/francescocalabrese'
     avatar: {}
 via: {}
-dateModified: '2016-08-20T06:50:30.109Z'
+dateModified: '2016-08-31T09:38:25.237Z'
 title: TESLA - The Letter
 publisher: {}
 description: >-
@@ -21,7 +21,7 @@ description: >-
 inLanguage: null
 inNav: false
 starred: false
-url: tesla-the-letter-from-francesco-calabrese-on-vimeo/index.html
+url: tesla-the-letter/index.html
 _type: Article
 
 ---
