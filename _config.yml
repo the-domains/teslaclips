@@ -35,9 +35,6 @@ navigation:
   - name: Tesla Powerwall
     id: 342060c7-1ede-428f-baae-02f29423a298
     type: content
-  - name: TESLA - Not a Dream
-    id: 3a22cd6c-1b51-4e9a-b5da-42d625d87d30
-    type: content
 favicon: null
 title: Tesla Art en Movies
 purpose: []
